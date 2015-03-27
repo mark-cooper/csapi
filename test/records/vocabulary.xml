@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document name="vocabulary">
+  <ns2:vocabularies_common
+    xmlns:ns2="http://collectionspace.org/services/vocabulary"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <shortIdentifier>hotbutteredtoast</shortIdentifier>
+    <refName>urn:cspace:cspace.lyrasistechnology.org:vocabularies:name(hotbutteredtoast)'Hot Buttered Toast'</refName>
+    <displayName>Hot Buttered Toast</displayName>
+    <vocabType>enum</vocabType>
+  </ns2:vocabularies_common>
+</document>

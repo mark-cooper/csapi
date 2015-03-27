@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:role xmlns:ns2="http://collectionspace.org/services/authorization">
+  <displayName>SITE_ADMINISTRATOR</displayName>
+  <roleName>SITE_ADMINISTRATOR</roleName>
+  <description>CSAPI generated site admin role.</description>
+</ns2:role>

@@ -1,0 +1,23 @@
+{
+  "name": "csapi",
+  "description": "CollectionSpace API client",
+  "version": "0.0.1",
+  "bugs": "https://github.com/mark-cooper/csapi/issues",
+  "homepage": "https://github.com/mark-cooper/csapi",
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "gulp": "^3.8.11",
+    "gulp-mocha": "^2.0.0",
+    "gulp-util": "^3.0.4"
+  },
+  "dependencies": {
+    "extend": "^2.0.0",
+    "request": "^2.53.0",
+    "underscore": "^1.8.2",
+    "xml2js": "^0.4.6"
+  },
+  "keywords": [
+    "collectionspace",
+    "api"
+  ],
+}

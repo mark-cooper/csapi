@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document name="persons">
+  <ns2:persons_common
+    xmlns:ns2="http://collectionspace.org/services/person"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <shortIdentifier>WalterWhite032215</shortIdentifier>
+    <refName>urn:cspace:cspace.lyrasistechnology.org:personauthorities:name(person):item:name(WalterWhite032215)'Walter White'</refName>
+    <groups/>
+    <personTermGroupList>
+      <personTermGroup>
+        <foreName>Walter</foreName>
+        <surName>White</surName>
+        <termDisplayName>Walter White</termDisplayName>
+      </personTermGroup>
+    </personTermGroupList>
+  </ns2:persons_common>
+</document>
