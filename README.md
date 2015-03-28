@@ -35,7 +35,7 @@ node examples/purge-empty-vocabularies.js
 
 **Usage**
 
-```
+```js
 require 'csapi' # not available yet and may be refactored
 var csapi = new csapi(cspace);
 ```
