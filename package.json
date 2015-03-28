@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "bugs": "https://github.com/mark-cooper/csapi/issues",
   "homepage": "https://github.com/mark-cooper/csapi",
+  "main": "lib/csapi.js",
   "devDependencies": {
     "chai": "^2.1.2",
     "gulp": "^3.8.11",
