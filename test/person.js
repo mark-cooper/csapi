@@ -52,7 +52,7 @@ describe('csapi person handling', function() {
       parser.parseString(data, function (err, result) {
         csapi.createPersonAuthority(result, function(err, res, data) {
           expect(res.statusCode).to.equal(201);
-          personauthorityLcnafId = res['headers']['location'].split("/").slice(-1)[0];;
+          personauthorityLcnafId = res['headers']['location'].split("/").slice(-1)[0];
           done();
         });
       });
